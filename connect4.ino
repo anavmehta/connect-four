@@ -1,4 +1,5 @@
 // Connect four game using NeoPixel library
+// (c) Anav Mehta
 //
 
 #include <Adafruit_NeoPixel.h>

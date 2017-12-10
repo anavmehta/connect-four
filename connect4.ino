@@ -1,6 +1,6 @@
 // Connect four game using NeoPixel library
 // (c) Anav Mehta
-//
+// http://3dwaffles.blogspot.com
 
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
